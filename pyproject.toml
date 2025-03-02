@@ -1,0 +1,15 @@
+[project]
+name = "variationlab"
+description = "Helps explore different parameters quickly"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["numpy", "torch"]
+
+[project.urls]
+Repository = "https://github.com/Legorobotdude/ComfyUI-VariationLab"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-VariationLab"
+Icon = ""
