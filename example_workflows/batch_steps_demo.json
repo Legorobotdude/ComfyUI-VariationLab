@@ -199,7 +199,7 @@
         }
       ],
       "properties": {},
-      "widgets_values": [42069, 5, 40, 6, 7.5, "euler_ancestral", "normal", 1.0]
+      "widgets_values": [42069, "randomize", 5, 40, 8, 7.0, "euler", "normal", 1.0]
     }
   ],
   "links": [

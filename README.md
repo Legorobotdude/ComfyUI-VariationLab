@@ -61,6 +61,8 @@ Example workflows can be found in the `example_workflows` directory:
 - `batch_steps_demo.json`: Demonstrates the Step Explorer (step count variation)
 - `batch_checkpoint_demo.json`: Demonstrates the Checkpoint Explorer (model comparison)
 
+> **Note:** If you experience validation errors when loading example workflows, try creating a new workflow from scratch by adding the nodes manually. Ensure you're using valid samplers (like "euler", "euler_ancestral", etc.) and schedulers ("normal", "karras", etc.).
+
 ## Future Development
 
 - Improved parameter handling

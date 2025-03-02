@@ -145,8 +145,11 @@
     {
       "id": 3,
       "type": "CFGExplorer",
-      "pos": [944, 178],
-      "size": [315, 282],
+      "pos": [503, 330],
+      "size": {
+        "0": 315,
+        "1": 434
+      },
       "flags": {},
       "order": 8,
       "mode": 0,
@@ -199,7 +202,7 @@
         }
       ],
       "properties": {},
-      "widgets_values": [42069, 25, 2.0, 12.0, 6, "euler_ancestral", "normal", 1.0]
+      "widgets_values": [42069, "randomize", 25, 2.0, 12.0, 6, "euler_ancestral", "normal", 1.0]
     }
   ],
   "links": [
