@@ -1,0 +1,36 @@
+"5": {
+  "inputs": {
+    "model": [
+      "4",
+      0
+    ],
+    "positive": [
+      "6",
+      0
+    ],
+    "negative": [
+      "7",
+      0
+    ],
+    "latent": [
+      "10",
+      0
+    ],
+    "vae": [
+      "11",
+      0
+    ],
+    "seed": 543216854,
+    "steps": 20,
+    "cfg_start": 1.0,
+    "cfg_end": 15.0,
+    "cfg_steps": 5,
+    "sampler_name": "euler",
+    "scheduler": "normal",
+    "denoise": 1.0
+  },
+  "class_type": "CFGExplorer",
+  "_meta": {
+    "title": "VariationLab: CFG Explorer"
+  }
+} 
